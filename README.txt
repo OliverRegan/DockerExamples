@@ -1,0 +1,1 @@
+Just a basic repo with some examples of dockerfiles, docker compose files and .dockerignore files for different types of applications
